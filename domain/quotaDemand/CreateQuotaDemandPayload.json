@@ -1,0 +1,58 @@
+[
+  {
+    "product": 10,
+    "seaport": 36,
+    "terminal": 1,
+    "trader": 36,
+    "arrivalAt": "2021-02-09T03:00:00.000Z",
+    "totalAmount": 90
+  },
+  {
+    "product": 10,
+    "seaport": 36,
+    "terminal": 1,
+    "trader": 36,
+    "arrivalAt": "2021-02-10T03:00:00.000Z",
+    "totalAmount": 90
+  },
+  {
+    "product": 10,
+    "seaport": 36,
+    "terminal": 1,
+    "trader": 36,
+    "arrivalAt": "2021-02-11T03:00:00.000Z",
+    "totalAmount": 90
+  },
+  {
+    "product": 10,
+    "seaport": 36,
+    "terminal": 1,
+    "trader": 36,
+    "arrivalAt": "2021-02-12T03:00:00.000Z",
+    "totalAmount": 90
+  },
+  {
+    "product": 10,
+    "seaport": 36,
+    "terminal": 1,
+    "trader": 36,
+    "arrivalAt": "2021-02-13T03:00:00.000Z",
+    "totalAmount": 90
+  },
+  {
+    "product": 10,
+    "seaport": 36,
+    "terminal": 1,
+    "trader": 36,
+    "arrivalAt": "2021-02-14T03:00:00.000Z",
+    "totalAmount": 90
+  },
+  {
+    "product": 10,
+    "seaport": 36,
+    "terminal": 1,
+    "trader": 36,
+    "arrivalAt": "2021-02-15T03:00:00.000Z",
+    "totalAmount": 90
+  }
+]

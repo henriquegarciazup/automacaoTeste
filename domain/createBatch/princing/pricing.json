@@ -1,0 +1,30 @@
+{
+
+    "commercialConditions": {
+        "operationType": 1,
+        "flowType": 1,
+        "paymentCondition": 1,
+        "minimumFreight": 1,
+        "allowedSplit": 0.5,
+        "hasIcms": false,
+        "isPrepex": false
+    },
+    "itemsToPay": [{
+            "shippingAgent": "SHIPPING_COMPANY",
+            "shippingCompany": 1,
+            "note": "",
+            "priceByTon": 400.0
+        },
+        {
+            "shippingAgent": "AUTONOMOUS_TRUCK_DRIVER",
+            "note": "",
+            "priceByTon": 200.0
+        }
+    ],
+    "itemsToReceive": [{
+        "note": "",
+        "roadPriceByTon": 500.0,
+        "railPriceByTon": 200.0
+    }]
+
+}

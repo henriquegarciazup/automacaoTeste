@@ -1,0 +1,23 @@
+{
+"demand": 1196,
+"splitNote": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Nam laoreet eleifend leo a ornare. Etiam a odio volutpat, volutpat leo eget,porttitor est. Nam feugiat sapien at urna eleifend fermentum. Aenean posuere sollicitudin volutpat. Integer venenatis aliquam sollicitudin. Aliquam at malesuada tortor, eget commodo purus. Curabitur nec mauris at nislullamcorper molestie. Suspendisse consequat, lacus et malesuada mollis, mauris leo porttitor ligula, sed tristique orci lacus at augue. Aliquam mollis arcu quam",
+"splits": [{
+"shippingAgent": "AUTONOMOUS_TRUCK_DRIVER",
+"amountByVolumes": [{
+"volume": 9770 ,
+"amount": 500
+}
+]
+},
+{
+"shippingAgent": "AUTONOMOUS_TRUCK_DRIVER",
+"shippingCompany": 179,
+"amountByVolumes": [{
+"volume": 9771 ,
+"amount": 500
+}
+
+]
+}
+]
+}

@@ -1,0 +1,11 @@
+{
+    "id": 1,
+    "plateNumber": "ABC1234",
+    "firstTruckTrailerPlate": "ABC1236",
+    "secondTruckTrailerPlate": "ABC1237",
+    "dollyPlate": "ABC1238",
+    "date": "2021-06-10",
+    "hour": 9,
+    "amount": 50,
+    "demandVolumeSplit": 2
+} 

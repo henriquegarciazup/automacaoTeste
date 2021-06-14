@@ -1,0 +1,57 @@
+{
+	"trader": 10,
+	"origin": 1,
+	"terminal": 1,
+	"product": 12,
+	"loadType": "EXCLUSIVE",
+	"freightTargetValue": 15.0,
+	"demandType": "ROAD",
+	"customization": {
+		"originWorkingDays": [{
+				"weekDay": "MONDAY",
+				"startHour": "08:30:00",
+				"endHour": "17:50:00"
+			},
+            {
+                "weekDay": "TUESDAY",
+				"startHour": "08:30:00",
+				"endHour": "17:50:00"   
+            },
+		
+        
+               {
+                "weekDay": "WEDNESDAY",
+				"startHour": "08:30:00",
+				"endHour": "17:50:00"   
+            },
+             {
+                "weekDay": "THURSDAY",
+				"startHour": "08:30:00",
+				"endHour": "17:50:00"   
+            },
+             {
+                "weekDay": "FRIDAY",
+				"startHour": "08:30:00",
+				"endHour": "17:50:00"   
+            },
+             {
+                "weekDay": "SATURDAY",
+				"startHour": "08:30:00",
+				"endHour": "17:50:00"   
+            },
+              {
+                "weekDay": "SUNDAY",
+				"startHour": "08:30:00",
+				"endHour": "17:50:00"   
+            }
+			
+		],
+		"volumes": [{
+			"arrivalDay": "2021-12-12",
+			"totalWeight": 30
+		}, {
+			"arrivalDay": "2021-12-12",
+			"totalWeight": 30
+		}]
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"trader": 10,
+	"origin": 1,
+	"terminal": 1,
+	"product": 12,
+	"loadType": "EXCLUSIVE",
+	"freightTargetValue": 150.0,
+	"demandType": "MULTIMODAL",
+	"customization": {
+		"originWorkingDays": [{
+				"weekDay": "MONDAY",
+				"startHour": "11:30:00", 
+				"endHour": "20:00:00"
+			}],
+		"volumes": [{
+			"arrivalDay": "2021-12-20",
+			"totalWeight": 500
+		}
+
+
+        ]
+	}
+}
